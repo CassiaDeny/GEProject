@@ -1,4 +1,4 @@
 # GEProject
-Gama Experience project \r\n
+Gama Experience project
 
 input test
